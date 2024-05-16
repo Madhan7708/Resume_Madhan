@@ -1,0 +1,25 @@
+.one{
+    background-color: blue;
+    height: 200px;
+
+}
+h1,img{
+    display: inline-block;
+}
+img{
+    border-radius: 100px;
+}
+a{
+    color:blue;
+    text-decoration: none;
+}
+h3{
+    color: brown;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#o{
+    margin: 10px;
+    padding: 10px;
+}
